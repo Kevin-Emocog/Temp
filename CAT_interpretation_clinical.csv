@@ -1,6 +1,6 @@
 ﻿id;parent_id;title;text
-"clinical interpretation;interpretation;""6. 임상 사례별 해석"";""하나의 유의미한 수치로 임상적 진단을 내릴 수 없습니다. 아래는 다음의 임상적 진단을 가지고 있는 경우, 흔하게 일반적으로 나타날 수 있는 결과 양상입니다. 결과 해석에 주의가 필요합니다."""
-"""ADHD"";clinical interpretation;""6.1. 주의력 결핍 및 과잉행동 장애(Attention-Deficit/Hyperactivity Disorder; ADHD)"";""ADHD - predominantly inattention presentation 
+"임상해석;해석;""6. 임상 사례별 해석"";""하나의 유의미한 수치로 임상적 진단을 내릴 수 없습니다. 아래는 다음의 임상적 진단을 가지고 있는 경우, 흔하게 일반적으로 나타날 수 있는 결과 양상입니다. 결과 해석에 주의가 필요합니다."""
+"""ADHD"";임상해석;""6.1. 주의력 결핍 및 과잉행동 장애(Attention-Deficit/Hyperactivity Disorder; ADHD)"";""ADHD - predominantly inattention presentation 
 누락 오류 AQ  저하 및 경계를 보일 수 있음(오경보 오류 AQ 정상)
 반응시간 평균 AQ 저하 및 경계를 보일 수 있음
 반응시간 표준편차 AQ 저하 및 경계를 보일 수 있음
